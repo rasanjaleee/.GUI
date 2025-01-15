@@ -1,0 +1,128 @@
+.navbar{
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(235, 242, 241);
+    padding: 20px 10px;
+}
+
+.logo
+{
+    width:150px;
+    cursor: pointer;
+}
+
+ul
+{
+    flex: 1;
+    list-style: none;
+    text-align: center;
+    /*gap:20px;*/
+}
+
+ul li
+{
+    display: inline-block;
+    margin: 10px 20 px;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+.searchbar
+{
+    display: flex;
+    align-items: center;
+    /*background: #242424;
+    padding: 10px 20px;
+    border-radius: 40px;*/
+}
+
+/*.searchbar input
+{
+    padding: 6px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    color: white;
+    font-size: 18px;
+    max-width: 200px;
+}*/
+
+/*.searchbar input::placeholder
+{
+    color: white;
+}*/
+
+.searchbar img
+{
+    width: 20px;
+}
+
+.menu
+{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+.menuitem
+{
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.search
+{
+    width: 40px;
+    height: auto;
+    margin: 20px;
+}
+
+.signinup .btn
+{
+    width: 130px;
+    height: 40px;
+    font-weight: 500;
+    background: rgb(132, 227, 165);
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+#registerbtn
+{
+    margin-left: 0px;
+}
+
+.btn.white-btn
+{
+    background: rgba(255,255,255,0.7);
+}
+
+.btn:hover
+{
+    background: rgba(255,255,255,0.3);
+}
+
+.signinup
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn.btn.white-btn:hover
+{
+    background: rgba(255,255,255,0.5);
+}
+
+
+
+
+
+
+  

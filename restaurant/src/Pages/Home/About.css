@@ -1,0 +1,105 @@
+.container
+{
+    width:100%;
+    margin: auto;
+    padding: 40px 0;
+
+}
+.title
+{
+    margin-bottom: 2rem;
+    color: rgb(233, 105, 54);
+    text-align: center;
+}
+
+.column
+{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.photo img
+{
+    width: 90%;
+    height: 90%;
+    border-radius: 5px;
+    object-fit: cover;
+    align-items: center;
+    margin-left: 30%;
+}
+
+.photogallery
+{
+    display: flex;
+    
+}
+
+@media(max-width:768px)
+{
+    .photogallery{
+        flex-direction: column;
+    }
+}
+
+.welcome
+{
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    width:50%;
+    background-color: white;
+   margin-left: 24.5%;
+}
+
+.welcome p
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+.welcome h2
+{
+    margin-bottom: 20px;
+    color: rgb(153, 82, 181);
+    margin-left: 15%;
+
+}
+
+.welcome h3
+{
+    margin-left: 15%;
+
+}
+
+.experience {
+    display: flex;
+    justify-content: center; 
+    gap: 40px; /* Space between the items */
+    margin-top: 20px; /* Space above the experience section */
+}
+
+.experience-item {
+    text-align: center;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 150px; /* Adjust size */
+}
+
+.experience-item h3 {
+    font-size: 2rem;
+    color: #ff6347;
+    margin: 0;
+}
+
+.experience-item p {
+    font-size: 1rem;
+    color: #333;
+    margin-top: 5px;
+}
+
