@@ -1,0 +1,96 @@
+.profile-container {
+  position: relative;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers everything in the container */
+  background: url('../../assets/profile-background.avif') no-repeat center center fixed;
+}
+
+/* Move settings container to the right */
+.settings-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+/* Settings Icon */
+.setting-icon {
+  font-size: 24px;
+  cursor: pointer;
+  background: #f0f0f0;
+  padding: 8px;
+  border-radius: 50%;
+  transition: background 0.3s ease;
+}
+
+.setting-icon:hover {
+  background: #ddd;
+}
+
+/* Settings Buttons */
+.settings-box {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.settings-box button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: #f0f0f0;
+  transition: background 0.3s ease;
+}
+
+.settings-box button:hover {
+  background: #ddd;
+}
+
+/* Profile Page - Centering */
+.profile-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center horizontally */
+  justify-content: center; /* Center vertically */
+  width: 100%;
+  max-width: 600px; /* Adjust based on preference */
+  margin-top: 50px;
+}
+
+/* Profile Header */
+.profile-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+/* Centering User Details */
+.user-details {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 400px;
+  text-align: center; /* Center text */
+  margin-top: 20px;
+}
+
+.user-details p {
+  margin: 10px 0;
+}
+
+

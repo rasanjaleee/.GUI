@@ -1,0 +1,37 @@
+.order-now-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 30px; /* Adds space between sections */
+}
+
+/* Menu Section */
+.menu {
+    width: 100%;
+}
+
+.menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.menu-item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+    background: #f9f9f9;
+    border-radius: 5px;
+}
+
+/* Cart Section */
+.cart {
+    width: 100%;
+    margin-top: 20px;
+    padding: 20px;
+    border-top: 2px solid #ddd;
+}

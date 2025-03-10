@@ -3,6 +3,7 @@
     width:100%;
     margin: auto;
     padding: 40px 0;
+    background: linear-gradient(127deg,#c3b94b,#93b699,#e38a90);
 
 }
 .title
@@ -102,4 +103,56 @@
     color: #333;
     margin-top: 5px;
 }
+
+.footer
+{
+    background-color: #a3a0a0;
+    margin-top: 10px;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
+
+.footer-content
+{
+    display:flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    flex-wrap: wrap;
+    gap:20px;
+    margin:0 0 0 10px;
+}
+
+.social-icons
+{
+    flex:1;
+    min-width :200px;
+}
+
+.footer-content h2,.social-media h2
+{
+    margin-bottom: 10px;
+    color: #ff6347;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #ff6347;
+  }
+  
+  .footer-bottom {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+  
+  .footer-bottom p {
+    margin: 0;
+  }
 

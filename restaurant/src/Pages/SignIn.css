@@ -1,18 +1,28 @@
-
-
+.wrapper-container
+{
+    background: url('../assets/background_01.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+ 
+}
 
 .wrapper
 {
-    width:420px;
+    width:100%;
+    max-width:400px;
     justify-content: center;
     align-items: center;
-    margin-left: 35%;
-    margin-top: 5%;
+   /*margin-left: 35%;
+    margin-top: 5%;*/
     background-position: center;
-    background-color: rgb(124, 199, 199);
+    background-color: rgb(155, 154, 154);
     border-radius: 10px;
     padding: 30px 40px;
-    backdrop-filter: blur(30px);
+    backdrop-filter: blur(5px);
     box-shadow: 0 0 10px rgba(0,0,0,.2);
     color: #fff;
     border: 2px solid rgba(255,255,255,.2);
@@ -92,7 +102,7 @@
 {
     width: 100%;
     height: 45px;
-    background: #fff;
+    background: aqua;
     border: 0;
     outline: 0;
     border-radius: 40px;
@@ -101,6 +111,12 @@
     font-size: 16px;
     color: #333;
     font-weight: 700;
+}
+
+
+.wrapper button:hover
+{
+    background-color: rgb(11, 146, 146);
 }
 
 .wrapper .register-link
@@ -130,4 +146,11 @@
         width: 90px;
         padding: 20px;
     }
+}
+
+.signin
+{
+    background:url('../assets/background_01.jpeg') no repeat center center center fixed;
+    background-size: cover;
+
 }

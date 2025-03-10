@@ -3,8 +3,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: rgb(235, 242, 241);
-    padding: 20px 10px;
+    background: rgb(242, 203, 136);
+   
 }
 
 .logo
@@ -33,26 +33,9 @@ ul li
 {
     display: flex;
     align-items: center;
-    /*background: #242424;
-    padding: 10px 20px;
-    border-radius: 40px;*/
 }
 
-/*.searchbar input
-{
-    padding: 6px;
-    background: transparent;
-    border: 0;
-    outline: 0;
-    color: white;
-    font-size: 18px;
-    max-width: 200px;
-}*/
 
-/*.searchbar input::placeholder
-{
-    color: white;
-}*/
 
 .searchbar img
 {
@@ -86,21 +69,16 @@ ul li
     width: 130px;
     height: 40px;
     font-weight: 500;
-    background: rgb(132, 227, 165);
     border: none;
-    border-radius: 30px;
+    border-radius: 5px;
     cursor: pointer;
-    transition: .3s ease;
+   
 }
 
-#registerbtn
-{
-    margin-left: 0px;
-}
-
-.btn.white-btn
+.btn
 {
     background: rgba(255,255,255,0.7);
+    margin: 40px;
 }
 
 .btn:hover
@@ -115,10 +93,29 @@ ul li
     gap: 10px;
 }
 
-.btn.btn.white-btn:hover
+.btn:hover
 {
     background: rgba(255,255,255,0.5);
 }
+
+.nav-link {
+    text-decoration: none; /* No underline by default */
+    color: black; /* Default link color */
+    padding: 5px 10px;
+  }
+  
+  .nav-link.active {
+    text-decoration:solid;/* Underline for active link */
+    color: rgb(114, 131, 131); /* Optional: Change color for the active page */
+  }
+
+.profile
+{
+   width:40px;
+   height:40px;
+   
+}
+  
 
 
 

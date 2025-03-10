@@ -1,14 +1,15 @@
 .box01
 {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     background: rgb(71, 71, 71);
     color:white;
     font-size: 16px;
     text-align: center;
-    line-height: 100px;
+    line-height: 50px;
     border-radius: 20px;
 }
+
 
 .column02
 {

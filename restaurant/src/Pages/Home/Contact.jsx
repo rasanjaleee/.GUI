@@ -13,7 +13,7 @@ const Contact = () => {
       
       
       <div className='contact-details'>
-        <p>We would love to hear from you! Please reach out using the form or via our contact details.</p>
+        <div className='pra'><p>We would love to hear from you! Please reach out using the form or via our contact details.</p></div>
                  
       </div>
       <h2>Get in Touch</h2> 
