@@ -1,0 +1,118 @@
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(150, 150, 133);
+   
+}
+
+.logo
+{
+    width:150px;
+    cursor: pointer;
+}
+
+ul
+{
+    flex: 1;
+    list-style: none;
+    text-align: center;
+}
+
+ul li
+{
+    font-size: 26px;
+    cursor: pointer;
+}
+
+.searchbar
+{
+    display: flex;
+    align-items: center;
+}
+
+.searchbar img
+{
+    width: 20px;
+}
+
+.menu
+{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+.menuitem
+{
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.search
+{
+    width: 40px;
+    height: auto;
+    margin: 20px;
+}
+
+.signinup .btn
+{
+    width: 130px;
+    height: 40px;
+    font-weight: 500;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+   
+}
+
+.btn
+{
+    background: white;
+    margin: 40px;
+}
+
+.btn:hover
+{
+    background:  #779ff4;
+}
+
+.signinup
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn:hover
+{
+    background:  #779ff4;
+}
+
+.nav-link {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 15px;
+    border-radius: 20px;
+  }
+  
+  .nav-link.active {
+    background-color: #779ff4;
+    color: black;
+  }
+
+
+
+  
+
+
+
+
+
+
+  

@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\desktop2\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\desktop2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\desktop2\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\desktop2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\dishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\dishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\desktop2\\dishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\dishes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\ordering.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\ordering.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\ordering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\reservations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\reservations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|d:\\gui project\\new folder (2)\\.gui\\desktop2 (2)\\desktop2\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DD066D-DA3F-4FF3-BEFF-F9E989715803}|Desktop2\\Desktop2.csproj|solutionrelative:desktop2\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Menu.Designer.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Menu.Designer.cs",
+              "RelativeToolTip": "Desktop2\\Menu.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:52:57.574Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Form1.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Form1.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Form1.cs",
+              "RelativeToolTip": "Desktop2\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAD4vzcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:21:20.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Form1.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADS TECH\\Desktop\\Desktop2 (2)\\Desktop2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:15:27.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashbord.cs [Design]",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Dashbord.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Dashbord.cs",
+              "ToolTip": "C:\\Users\\ADS TECH\\Desktop\\Desktop2 (2)\\Desktop2\\Dashbord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:04:48.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Menu.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Menu.cs",
+              "ToolTip": "C:\\Users\\ADS TECH\\Desktop\\Desktop2 (2)\\Desktop2\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:15:48.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservations.cs [Design]",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Reservations.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Reservations.cs",
+              "ToolTip": "C:\\Users\\ADS TECH\\Desktop\\Desktop2 (2)\\Desktop2\\Reservations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:57:07.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ordering.cs [Design]",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Ordering.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Ordering.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Ordering.cs [Design]",
+              "RelativeToolTip": "Desktop2\\Ordering.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:15:48.526Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dishes.cs",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Dishes.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Dishes.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Dishes.cs",
+              "RelativeToolTip": "Desktop2\\Dishes.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:25:51.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reservations.Designer.cs",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Reservations.Designer.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Reservations.Designer.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Reservations.Designer.cs",
+              "RelativeToolTip": "Desktop2\\Reservations.Designer.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAuwJ0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:07:00.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ordering.Designer.cs",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Ordering.Designer.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Ordering.Designer.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Ordering.Designer.cs",
+              "RelativeToolTip": "Desktop2\\Ordering.Designer.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAuwPsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:00:51.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservations.cs",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Reservations.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Reservations.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Reservations.cs",
+              "RelativeToolTip": "Desktop2\\Reservations.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAIwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:58:55.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dishes.cs [Design]",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Dishes.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Dishes.cs",
+              "ToolTip": "C:\\Users\\ADS TECH\\Desktop\\Desktop2 (2)\\Desktop2\\Dishes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:13:13.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ordering.cs",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Ordering.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Ordering.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Ordering.cs",
+              "RelativeToolTip": "Desktop2\\Ordering.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAIBAwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:23:23.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Desktop2\\DatabaseConnection.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\DatabaseConnection.cs",
+              "RelativeToolTip": "Desktop2\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:40:34.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Menu.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Menu.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Menu.cs",
+              "RelativeToolTip": "Desktop2\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:17:42.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashbord.cs",
+              "DocumentMoniker": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Dashbord.cs",
+              "RelativeDocumentMoniker": "Desktop2\\Dashbord.cs",
+              "ToolTip": "D:\\gui project\\New folder (2)\\.GUI\\Desktop2 (2)\\Desktop2\\Dashbord.cs",
+              "RelativeToolTip": "Desktop2\\Dashbord.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAnwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:09:40.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
